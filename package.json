@@ -1,15 +1,27 @@
 {
+<<<<<<< HEAD
   "name": "lab01_101486141_comp3133",
+=======
+  "name": "lab2_mocha_test",
+>>>>>>> 5bdc4ad (Lab 2)
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+<<<<<<< HEAD
+=======
+    "test": "mocha"
+>>>>>>> 5bdc4ad (Lab 2)
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "csv-parser": "^3.2.0"
+=======
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5"
+>>>>>>> 5bdc4ad (Lab 2)
   }
 }
