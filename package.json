@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "lab08",
   "version": "0.0.0",
   "scripts": {
@@ -27,5 +28,20 @@
     "@angular/compiler-cli": "^17.0.0",
     "@types/node": "^18.18.0",
     "typescript": "~5.2.2"
+=======
+  "name": "lab2_mocha_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.0.0",
+    "mocha": "^10.0.0"
+>>>>>>> 5f516c19ffa19b3d580fd37f92c099e79f0e85c6
   }
 }
